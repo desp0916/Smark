@@ -41,3 +41,5 @@ RESOURCES += \
 
 
 RC_FILE += Smark/rc/LOGO.rc
+
+qtHaveModule(printsupport): QT += printsupport
